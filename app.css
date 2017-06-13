@@ -1,0 +1,19 @@
+.comment-box {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: #efeff5;
+    padding: 20px;
+    border-bottom: 1px solid;
+}
+.comment-form {
+    background-color: #e8fced;
+    margin-top: 20px;
+    padding: 10px;
+}
+.author {
+    font-size: 12px;
+    color: green;
+}
